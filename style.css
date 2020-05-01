@@ -1,0 +1,48 @@
+
+
+
+body{margin-top: 90px;}
+
+.navbar{background:rgba(255,255,255,0.9);
+    box-shadow: 0px 1px 5px;
+}
+
+.navbar a{
+    padding-right:30px;
+    line-height: 2.5;
+    font-size:20px;
+    color:rgb(77, 76, 76);
+ 
+}
+
+.navbar-link:hover{color:dodgerblue;}
+
+#home{
+    min-height:600px;
+    background:url('img/mountains.jpg') no-repeat center;
+    background-attachment: fixed;
+    background-size: cover; position: relative;
+}
+.overlay{background:rgba(40, 150, 165, 0.6); width:100%;
+min-height:600px; position: absolute;
+top:0; right:0;
+width:100%; height:100%;}
+
+.btn-lg{border-radius:0;}
+
+
+.form-control-lg{border-radius: 0;}
+.inner-part2{background:rgb(22, 22, 22);}
+
+
+.my-accordion .ui-accordion-header{font-size: 20px; text-align: center;}
+
+#meet img{margin-top: -50px;}
+#meet .card:hover{background:dodgerblue; color:#fff;}
+
+#meet i{font-size: 24px;}
+
+#meet .card:hover i{color:white;}
+
+#get i{font-size: 20px;}
+#get textarea{}
